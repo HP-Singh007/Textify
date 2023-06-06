@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Textify/static/css/main.507e8f8f.css",
-    "main.js": "/Textify/static/js/main.05f966ae.js",
+    "main.css": "/Textify/static/css/main.df233787.css",
+    "main.js": "/Textify/static/js/main.d7249008.js",
     "static/js/787.28cb0dcd.chunk.js": "/Textify/static/js/787.28cb0dcd.chunk.js",
     "static/media/snake.png": "/Textify/static/media/snake.2e37179993189d2b903a.png",
     "static/media/weather.png": "/Textify/static/media/weather.741a3fb3da99679f1a16.png",
     "static/media/movie.png": "/Textify/static/media/movie.94eed0fda98045c6618d.png",
     "index.html": "/Textify/index.html",
-    "main.507e8f8f.css.map": "/Textify/static/css/main.507e8f8f.css.map",
-    "main.05f966ae.js.map": "/Textify/static/js/main.05f966ae.js.map",
+    "main.df233787.css.map": "/Textify/static/css/main.df233787.css.map",
+    "main.d7249008.js.map": "/Textify/static/js/main.d7249008.js.map",
     "787.28cb0dcd.chunk.js.map": "/Textify/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.507e8f8f.css",
-    "static/js/main.05f966ae.js"
+    "static/css/main.df233787.css",
+    "static/js/main.d7249008.js"
   ]
 }
